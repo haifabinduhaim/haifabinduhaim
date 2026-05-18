@@ -15,7 +15,7 @@
 
 <hr>
 
-<h2 align="center"> 🛠️ Tools of Trade</h2>
+<h2 align="center">  Tools : </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;&nbsp;
@@ -34,12 +34,12 @@
 </p>
 
 <p align="center">
-<b>Engineering:</b> Software Architecture, SQL Design, REST APIs | <b>Management:</b> SDLC, Requirements Analysis, Project Governance (Predictive & Adaptive).
+<b>Engineering:</b> Software Architecture, SQL Design| <b>Management:</b> SDLC, Requirements Analysis, Project Governance (Predictive & Adaptive).
 </p>
 
 <hr>
 
-<h2 align="center">🔭 Current Focus</h2>
+<h2 align="center"> Current Focus</h2>
 <p align="center">
   Pursuing B.S. in Software Engineering (Expected 2027) <br>
   Mastering Design Patterns (Repository, Pipe & Filter, MVC) <br>
