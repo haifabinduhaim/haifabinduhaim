@@ -1,6 +1,6 @@
 <h1 align="center">  Hello, I'm Haifa </h1>
 <p align="center">  Software Engineer | CAPM® Certified Project Manager | Architecture Enthusiast </p>
-<p align="center"> (Open for Hiring)</p>
+<p align="center"> </p>
 
 <h2 align="center"> 👨‍💻 About Me</h2>
 <p align="center">
