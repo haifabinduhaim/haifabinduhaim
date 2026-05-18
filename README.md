@@ -41,14 +41,14 @@
 
 <h2 align="center">🔭 Current Focus</h2>
 <p align="center">
-  🎓 Pursuing B.S. in Software Engineering (Expected 2027) <br>
-  🏗️ Mastering Design Patterns (Repository, Pipe & Filter, MVC) <br>
-  🛡️ Integrating Security Fundamentals into Backend Systems
+  Pursuing B.S. in Software Engineering (Expected 2027) <br>
+  Mastering Design Patterns (Repository, Pipe & Filter, MVC) <br>
+  Integrating Security Fundamentals into Backend Systems
 </p>
 
 <hr>
 
-<h2 align="center">📫 Reach me on</h2>
+<h2 align="center"> Reach me on</h2>
 <p align="center">
   <a target="_blank" href="[YOUR_LINKEDIN_URL]"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:[YOUR_EMAIL]?subject=Hello%20[YOUR_NAME],%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -56,4 +56,4 @@
 
 <hr>
 
-<h2 align="center">💻 Check Out My Repos ⬇️ </h2>
+<h2 align="center">Check Out My Repos ⬇️ </h2>
