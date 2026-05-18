@@ -1,8 +1,5 @@
-<h1 align="center"> 👋 Hello, I'm Haifa </h1>
-<div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
-</div>
-<p align="center"> 🚀 Software Engineer | CAPM® Certified Project Manager | Architecture Enthusiast </p>
+<h1 align="center">  Hello, I'm Haifa </h1>
+<p align="center">  Software Engineer | CAPM® Certified Project Manager | Architecture Enthusiast </p>
 <p align="center"> (Open for Hiring)</p>
 
 <h2 align="center"> 👨‍💻 About Me</h2>
