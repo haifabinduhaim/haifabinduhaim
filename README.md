@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Haifa</h1>
 <p align="center"><b>Software Engineering Student</b></p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=blueviolet" alt="Profile Views" />
-</p>
-
 <hr>
 
 ## About Me
@@ -16,11 +12,10 @@
 
 ## Tech Stack
 
-### Languages & Databases
+### Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 ### Frontend
